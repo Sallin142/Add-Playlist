@@ -29,6 +29,7 @@ h2 {
 .App {
   height: 100%;
   padding: 0 17% 10% 17%;
+  /* background-color: blanchedalmond; */
   background-image: url('./background_photo_desktop.webp');
   background-size: cover;
   background-position: center;
