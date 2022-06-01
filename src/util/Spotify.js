@@ -1,5 +1,5 @@
 const clientId = 'a658e167e94e42009556fa91acba71aa';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'https://frolicking-baklava-95955b.netlify.app/gi';
 
 let accessToken = '';
 
